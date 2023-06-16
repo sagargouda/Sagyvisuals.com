@@ -1,0 +1,1 @@
+making this project for explaining how my visuals work.
